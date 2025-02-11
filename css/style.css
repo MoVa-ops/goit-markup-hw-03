@@ -78,6 +78,11 @@ h6 {
 .hero {
   background-color: #2e2f42;
 }
+
+.hero-content {
+  padding-top: 188px 472px 292px 472px;
+}
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
