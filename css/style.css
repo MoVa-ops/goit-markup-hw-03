@@ -97,6 +97,7 @@ h6 {
 }
 .contacts {
   font-style: normal;
+  margin-left: auto;
 }
 .contacts-link {
   font-size: 16px;
