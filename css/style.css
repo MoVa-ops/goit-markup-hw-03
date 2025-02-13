@@ -120,12 +120,12 @@ h6 {
 }
 
 .hero-content {
-  margin-right: auto;
-  margin-left: auto;
   padding: 188px 472px 292px 472px;
 }
 
 .hero-title {
+  margin-right: auto;
+  margin-left: auto;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
