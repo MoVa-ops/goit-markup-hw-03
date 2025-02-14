@@ -146,6 +146,8 @@ h6 {
   color: #fff;
   background-color: #4d5ae5;
   cursor: pointer;
+  min-width: 169px;
+  height: 56px;
 }
 .hero-button:hover,
 .hero-button:focus {
