@@ -119,10 +119,6 @@ h6 {
   background-color: #2e2f42;
 }
 
-.hero-content {
-  padding: 188px 472px 188px 472px;
-}
-
 .hero-title {
   text-align: justify;
   font-weight: 700;
@@ -131,7 +127,8 @@ h6 {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  margin-bottom: 48px;
+  max-width: 496px;
+  margin: 0 auto;
 }
 
 .hero-button {
