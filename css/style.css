@@ -305,6 +305,10 @@ h6 {
 }
 
 .footer-logo {
+  display: inline-block;
+}
+
+.footer-logo {
   margin-bottom: 16px;
 }
 .footer-text {
@@ -313,4 +317,5 @@ h6 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
 }
