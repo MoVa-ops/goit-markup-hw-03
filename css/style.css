@@ -159,6 +159,11 @@ img {
 }
 /* #endregion Hero */
 /* #region Explanation */
+.explanation {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 .explanation-item-title {
   font-weight: 500;
   font-size: 20px;
@@ -179,7 +184,6 @@ img {
   display: flex;
   gap: 24px;
   justify-content: flex-start;
-  padding: 120px 0 120px;
 }
 
 .explanation-item {
