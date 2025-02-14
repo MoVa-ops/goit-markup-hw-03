@@ -173,6 +173,7 @@ h6 {
 .explanation-list {
   display: flex;
   align-items: center;
+  gap: 24px;
 }
 /* #endregion Explanation */
 /* #region Introduction of team members */
