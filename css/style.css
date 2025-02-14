@@ -172,6 +172,7 @@ h6 {
 }
 .explanation-list {
   display: flex;
+  align-items: center;
 }
 /* #endregion Explanation */
 /* #region Introduction of team members */
