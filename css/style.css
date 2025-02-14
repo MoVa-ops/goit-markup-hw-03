@@ -124,9 +124,6 @@ h6 {
 }
 
 .hero-title {
-  align-items: center;
-  margin-right: auto;
-  margin-left: auto;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -135,6 +132,7 @@ h6 {
   color: #fff;
   margin-bottom: 48px;
 }
+
 .hero-button {
   margin-right: auto;
   margin-left: auto;
