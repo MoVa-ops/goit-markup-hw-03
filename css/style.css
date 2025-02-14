@@ -117,6 +117,8 @@ h6 {
 /* #region Hero */
 .hero {
   background-color: #2e2f42;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 
 .hero-title {
@@ -129,6 +131,7 @@ h6 {
   color: #fff;
   max-width: 496px;
   margin: 0 auto;
+  margin-bottom: 48px;
 }
 
 .hero-button {
