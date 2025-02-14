@@ -135,9 +135,10 @@ h6 {
 }
 
 .hero-button {
-  margin-right: auto;
-  margin-left: auto;
-  padding: 16px 32px;
+  display: block;
+  margin: 0 auto;
+  border: none;
+  border-radius: 4px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
