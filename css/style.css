@@ -173,9 +173,13 @@ h6 {
 }
 .explanation-list {
   display: flex;
-  align-items: center;
+  gap: 24px;
+  justify-content: flex-start;
+  padding: 120px 0;
+}
+.explanation-item {
   width: calc((100% - 24px * 3) / 4);
-  padding: 120px 156px;
+  min-width: 264px;
 }
 /* #endregion Explanation */
 /* #region Introduction of team members */
