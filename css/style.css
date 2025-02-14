@@ -170,6 +170,9 @@ h6 {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.explanation-list {
+  display: flex;
+}
 /* #endregion Explanation */
 /* #region Introduction of team members */
 .team {
