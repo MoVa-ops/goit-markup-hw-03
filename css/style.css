@@ -204,6 +204,7 @@ img {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
   overflow: hidden;
+  border-radius: 0px 0px 4px 4px;
 }
 
 .team-item img {
@@ -211,7 +212,7 @@ img {
 }
 
 .team-item .team-name {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 .team-description {
@@ -227,7 +228,7 @@ img {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 .team-name {
