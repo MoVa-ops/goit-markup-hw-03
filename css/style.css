@@ -185,13 +185,14 @@ h6 {
 /* #region Introduction of team members */
 .team {
   background-color: #f4f4fd;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .team-list {
   display: flex;
   gap: 24px;
   justify-content: flex-start;
-  padding-bottom: 120px;
 }
 
 .team-item {
@@ -221,7 +222,7 @@ h6 {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  padding: 120px 0 72px 0;
+  padding-bottom: 72px;
 }
 
 .team-name {
@@ -243,6 +244,29 @@ h6 {
 }
 /* #endregion Introduction of team members */
 /* #region Portfolio */
+.portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.portfolio-list {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  row-gap: 48px;
+}
+
+.portfolio-item {
+  width: calc((100% - 48) / 3);
+}
+
+.portfolio-description {
+  padding: 32px 16px;
+  border-bottom: 1px solid #e7e9fc;
+  border-left: 1px solid #e7e9fc;
+  border-right: 1px solid #e7e9fc;
+}
+
 .portfolio-name {
   font-weight: 700;
   font-size: 36px;
@@ -251,6 +275,7 @@ h6 {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+  padding-bottom: 72px;
 }
 
 .portfolio-title {
@@ -271,6 +296,8 @@ h6 {
 /* #endregion Portfolio */
 .main-footer {
   background-color: #2e2f42;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .footer-logo .logo-part {
