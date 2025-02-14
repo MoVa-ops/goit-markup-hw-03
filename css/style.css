@@ -186,9 +186,33 @@ h6 {
 .team {
   background-color: #f4f4fd;
 }
+
+.team-list {
+  display: flex;
+  gap: 24px;
+  justify-content: flex-start;
+  padding-bottom: 120px;
+}
+
 .team-item {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+  overflow: hidden;
 }
+
+.team-item img {
+  width: 100%;
+}
+
+.team-item .team-name {
+  padding-bottom: 8px;
+}
+
+.team-description {
+  padding: 32px 0;
+  text-align: center;
+}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -197,6 +221,7 @@ h6 {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+  padding: 120px 0 72px 0;
 }
 
 .team-name {
